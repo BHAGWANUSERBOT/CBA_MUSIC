@@ -1,7 +1,7 @@
 from typing import List
 from typing import Union
 
-from pyrogram import filters
+from CBAMUSIC import filters
 
 from CBAMUSIC.config import COMMAND_PREFIXES
 
